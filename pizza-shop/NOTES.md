@@ -58,6 +58,16 @@ It waits for the chef to say "done" (the ACK).
 
 The chef should print the order and cook it.
 
+## What it looks like when running
+
+**Terminal — cashier sends orders, chef cooks them:**
+
+![Terminal output: cashier sends orders, chef cooks each one](images/terminal-output.png)
+
+**RabbitMQ dashboard — the `pizza-orders` queue holding messages:**
+
+![RabbitMQ management dashboard showing the pizza-orders queue](images/rabbitmq-dashboard.png)
+
 ## Why this matters (the real lesson)
 
 This is the **message queue** pattern. In real apps you use it so that:
