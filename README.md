@@ -13,7 +13,7 @@ understand a concept by making it work, not just reading about it.
 
 | Folder | Topic | What I learned |
 |--------|-------|----------------|
-| [pizza-shop](pizza-shop/Notes.md) | RabbitMQ (message queues) | How two programs can pass work through a queue instead of talking directly — a cashier sends pizza orders, a chef cooks them. |
+| [pizza-shop](pizza-shop/Readme.md) | RabbitMQ (message queues) | How two programs can pass work through a queue instead of talking directly — a cashier sends pizza orders, a chef cooks them. |
 
 ### How to use this folder
 
@@ -33,7 +33,7 @@ _More projects get added here as I learn new things._
 
 | フォルダ | テーマ | 学んだこと |
 |----------|--------|------------|
-| [pizza-shop](pizza-shop/Notes.md) | RabbitMQ（メッセージキュー） | 2つのプログラムが直接やり取りせず、キューを通して仕事を渡す仕組み。レジ係が注文を送り、シェフがピザを作ります。 |
+| [pizza-shop](pizza-shop/Readme.md) | RabbitMQ（メッセージキュー） | 2つのプログラムが直接やり取りせず、キューを通して仕事を渡す仕組み。レジ係が注文を送り、シェフがピザを作ります。 |
 
 ### このフォルダの使い方
 
